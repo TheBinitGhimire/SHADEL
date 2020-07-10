@@ -31,7 +31,7 @@
 
 1. How to use **SHADEL** as a command?
 
-	=> After making the '**shadel**' file executable with `chmod +x shadel`, you can perform **`cp shadel /usr/local/sbin/`**. Doing this will send the file to a location pre-defined in the path variables, due to which you will be able to run **SHADEL** just with `shadel -i [INPUT] -o [OUTPUT]` without being in the cloned/installation directory.
+	=> *After making the '**shadel**' file executable with **`chmod +x shadel`**, you can perform **`cp shadel /usr/local/sbin/`**. Doing this will send the file to a location pre-defined in the path variables, due to which you will be able to run **SHADEL** just with **`shadel -i [INPUT] -o [OUTPUT]`** without being in the cloned/installation directory.*
 
 
 ## Feature Requests
